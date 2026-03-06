@@ -1,5 +1,6 @@
 {
  "allowed_version": "0.1.0",
- "server_open": false,
+ "server_open": true,
  "max_rooms": 5
 }
+
